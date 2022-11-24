@@ -1,0 +1,8 @@
+.cardButton{
+  display: flex;
+  padding: 15px;
+  border-radius: 50%;
+  background-color: #FF912B;
+  border: 0px;
+  cursor: pointer;
+}

@@ -1,0 +1,35 @@
+{
+  "cards": 
+      [
+          {
+              "cover": {
+                  "src": "./coffee ice cream.png",
+                  "alt": "Vanilla Latte"
+              },
+              "title": "Vanilla Latte",
+              "price": "21K",
+              "etichette": ["Hot", "Cold"],
+              "visibility": true
+          },
+          {
+              "cover": {
+                  "src": "./coffee ice cream.png",
+                  "alt": "Cappuccino"
+              },
+              "title": "Cappuccino",
+              "price": "10K",
+              "etichette": ["Hot", "Cold", "Altro"],
+              "visibility": false
+          },
+          {
+              "cover": {
+                  "src": "./coffee ice cream.png",
+                  "alt": "Caffè"
+              },
+              "title": "Caffè",
+              "price": "15K",
+              "etichette": ["Hot"],
+              "visibility": true
+          }
+      ]
+}

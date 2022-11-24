@@ -26,8 +26,8 @@ function App() {
 export default App;
 
 function Dog(){
+  console.log ("ciao")
   return (<p>
     I'm a dog! 10+10 = {10+10}
-
   </p>)
 }
