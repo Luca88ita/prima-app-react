@@ -2,6 +2,8 @@ import Header from '../Header/Header';
 import Main from '../Main/Main';
 import Footer from '../Footer/Footer';
 import ListMain from '../ListMain/ListMain';
+import ListV1 from '../ListV1/ListV1';
+import ToDo from '../ToDo/ToDo';
 function Layout() {
   return(
     <> {/* questo è un tag fragment */}
@@ -12,7 +14,9 @@ function Layout() {
     <Footer>
       ciao sono il footer
     </Footer> */}
-    <ListMain/>
+    {/* <ListMain/> */}
+    {/* <ListV1/> */}
+    <ToDo/>
     </>
   )
 }
